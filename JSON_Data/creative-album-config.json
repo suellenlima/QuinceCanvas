@@ -1,0 +1,11 @@
+{
+    "15_years_album": {
+      "style": {
+        "background_style": ["Boho Chic", "Minimalist", "Retro Futuristic"],
+        "frame": ["Golden Floral", "Elegant Copper", "Rustic Wood"],
+        "effects": ["Vintage", "Soft Blur", "Bright Neon"],
+        "texture": ["Soft Watercolor", "Modern Marble", "Aged Paper"],
+        "geometric_shapes": ["Circle", "Diamond", "Triangle", "Hexagon"]
+      }
+    }
+  }
