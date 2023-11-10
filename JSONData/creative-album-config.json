@@ -1,11 +1,53 @@
 {
-    "15_years_album": {
+    "quinceCanvas": {
       "style": {
-        "background_style": ["Boho Chic", "Minimalist", "Retro Futuristic"],
+        "backgroundStyle": ["Boho Chic", "Minimalist", "Retro Futuristic"],
         "frame": ["Golden Floral", "Elegant Copper", "Rustic Wood"],
         "effects": ["Vintage", "Soft Blur", "Bright Neon"],
         "texture": ["Soft Watercolor", "Modern Marble", "Aged Paper"],
-        "geometric_shapes": ["Circle", "Diamond", "Triangle", "Hexagon"]
+        "geometricShapes": ["Circle", "Diamond", "Triangle", "Hexagon"]
+      },
+      "imagesBank": {
+        "free": [
+          {
+            "name": "Png Tree",
+            "url": "https://pngtree.com/",
+            "amountPerDay": "1"
+          },
+          {
+            "name": "Freepik",
+            "url": "https://www.freepik.com/",
+            "amountPerDay": ""
+          },
+          {
+            "name": "Vecteezy",
+            "url": "https://www.vecteezy.com/",
+            "amountPerDay": ""
+          },
+          {
+            "name": "Unsplash",
+            "url": "https://unsplash.com/pt-br",
+            "amountPerDay": ""
+          },
+          {
+            "name": "Pixabay",
+            "url": "https://pixabay.com/",
+            "amountPerDay": ""
+          },
+          {
+            "name": "Pexeçs",
+            "url": "https://www.pexels.com/pt-br/",
+            "amountPerDay": ""
+          }
+        ]
+      },
+      "watermarkRemover": {
+        "free": [
+          {
+            "name": "Watermark Remover",
+            "url": "https://www.watermarkremover.io/pt/"
+          }
+        ]
       }
     }
   }
